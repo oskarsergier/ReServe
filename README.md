@@ -87,8 +87,8 @@ Licht toe op welke manier je AI gebruikte in dit project.
 ## Licentie
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
-* Software and code are released under the MIT License  
-* Design files, reports, visuals, and videos are released under Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Software and code:** [MIT License](./LICENSE)  
+- **Design, documentation, CAD, and media:** [CC BY 4.0 License](./cad/LICENSE)
   
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
