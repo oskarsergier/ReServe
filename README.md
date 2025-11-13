@@ -1,7 +1,7 @@
 # ReServe
-ReServe, een lokaal opslag punt voor voedselresten die nog eetbaar zijn.
+ReServe, een lokaal opslag punt voor voedseloverschotten die nog eetbaar zijn.
 
-🛠️ Built by ``Naam 1`` & ``Naam 2``   
+🛠️ Built by ``Victor Raes``, ``Bas Matthys`` & ``Oskar Sergier``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
