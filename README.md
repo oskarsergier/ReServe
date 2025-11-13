@@ -1,5 +1,5 @@
-# Projecttitel
-*Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
+# ReServe
+ReServe, een lokaal opslag punt voor voedselresten die nog eetbaar zijn.
 
 🛠️ Built by ``Naam 1`` & ``Naam 2``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
